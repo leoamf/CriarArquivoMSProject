@@ -1,0 +1,22 @@
+C:\Users\Leonardo\Downloads\TesteProject\TesteProject\bin\Debug\TesteProject.exe.config
+C:\Users\Leonardo\Downloads\TesteProject\TesteProject\bin\Debug\TesteProject.exe
+C:\Users\Leonardo\Downloads\TesteProject\TesteProject\bin\Debug\TesteProject.pdb
+C:\Users\Leonardo\Downloads\TesteProject\TesteProject\obj\Debug\TesteProject.csprojResolveAssemblyReference.cache
+C:\Users\Leonardo\Downloads\TesteProject\TesteProject\obj\Debug\TesteProject.Form1.resources
+C:\Users\Leonardo\Downloads\TesteProject\TesteProject\obj\Debug\TesteProject.Properties.Resources.resources
+C:\Users\Leonardo\Downloads\TesteProject\TesteProject\obj\Debug\TesteProject.csproj.GenerateResource.Cache
+C:\Users\Leonardo\Downloads\TesteProject\TesteProject\obj\Debug\TesteProject.exe
+C:\Users\Leonardo\Downloads\TesteProject\TesteProject\obj\Debug\TesteProject.pdb
+C:\Users\Leonardo\Downloads\TesteProject\TesteProject\bin\Debug\MSHTMLApi.dll
+C:\Users\Leonardo\Downloads\TesteProject\TesteProject\bin\Debug\MSProjectApi.dll
+C:\Users\Leonardo\Downloads\TesteProject\TesteProject\bin\Debug\NetOffice.dll
+C:\Users\Leonardo\Downloads\TesteProject\TesteProject\bin\Debug\OfficeApi.dll
+C:\Users\Leonardo\Downloads\TesteProject\TesteProject\bin\Debug\VBIDEApi.dll
+C:\Users\Leonardo\Downloads\TesteProject\TesteProject\bin\Debug\MSHTMLApi.xml
+C:\Users\Leonardo\Downloads\TesteProject\TesteProject\bin\Debug\MSProjectApi.xml
+C:\Users\Leonardo\Downloads\TesteProject\TesteProject\bin\Debug\NetOffice.xml
+C:\Users\Leonardo\Downloads\TesteProject\TesteProject\bin\Debug\OfficeApi.xml
+C:\Users\Leonardo\Downloads\TesteProject\TesteProject\bin\Debug\VBIDEApi.xml
+C:\Users\Leonardo\Google Drive\WorkSpace\Criar arquivo MSProject\TesteProject\bin\Debug\TesteProject.exe.config
+C:\Users\Leonardo\Google Drive\WorkSpace\Criar arquivo MSProject\TesteProject\obj\Debug\TesteProject.exe
+C:\Users\Leonardo\Google Drive\WorkSpace\Criar arquivo MSProject\TesteProject\obj\Debug\TesteProject.pdb
